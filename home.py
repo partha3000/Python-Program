@@ -1,3 +1,8 @@
+"""
+Expreiment Number : 03
+Expreiment Name : Current date and time display
+
+"""
 import datetime
 
 # Get the current date and time
